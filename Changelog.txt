@@ -1,0 +1,23 @@
+Diarjo Lite Changelog
+
+Version 1.1.0 - Released: 20.09.2015
+
+Moved : Option panel under WordPress Customizer.
+Edit  : Code optimized.
+Updated : Font Awesome 4.4.0
+
+Version 1.0.9 - Released: 24.01.2015
+
+Fixed : Category pagination with the last version of WordPress.
+
+Version 1.0.8 - Released: 16.09.2014
+
+Fixed : Removed the “Post format” tab, from the post settings (It was not necessary).
+
+Version 1.0.7 - Released: 04.09.2014
+
+Added : Search sidebar.
+
+Version 1.0.6 - Released: 09.06.2014
+
+Fixed : Pagination for archive and tag pages.
