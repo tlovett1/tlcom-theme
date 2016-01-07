@@ -1858,3 +1858,8 @@ ul.contact-info li:last-of-type {
 	div.overlay-image.large .wp-post-image { width:300px; height:213px }
 
 }
+
+
+.ccf-form-wrapper .field textarea {
+	border-color: inherit;
+}
