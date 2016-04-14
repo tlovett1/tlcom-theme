@@ -22,7 +22,7 @@
 
                     <p>
                         
-						&copy; Taylor Lovett 2015-2016
+						&copy; Taylor Lovett 2015-2016. <a title="AmpWP Managed WordPress Hosting" href="https://ampwp.com">WordPress Managed Hosting Provided by AmpWP</a>
                     </p>
 
 				</div>
